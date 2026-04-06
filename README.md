@@ -4,7 +4,7 @@ https://github.com/make-all/tuya-local/discussions/4136
 
 
 It works throug Local Tuya to make it work in Home Assistant. https://github.com/make-all/tuya-local.
-There maybe more brands with the same model.
+There maybe more brands with the same model. To me, it was recognized as the EM3390TF weather station.
 
 <img width="592" height="511" alt="image" src="https://github.com/user-attachments/assets/eebe6362-5dea-4d24-bbca-f37c4f498a1a" />
 <img width="310" height="580" alt="image" src="https://github.com/user-attachments/assets/aa75c0c5-acb6-4a35-b248-2d908aa22af8" />
@@ -58,4 +58,4 @@ cards:
 # In Local Tuya use.
 
 <img width="379" height="176" alt="image" src="https://github.com/user-attachments/assets/068a9a1c-ea60-48cd-a5e1-ad23bd72578f" />
-
+For the template, you can check out https://github.com/make-all/tuya-local/discussions/4136
