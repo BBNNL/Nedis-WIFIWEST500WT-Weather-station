@@ -2,7 +2,7 @@
 I made a custom configuration for the Nedis WIFIWEST500WT weather station on the base of Jampie85. 
 
 
-It works throug Local Tuya to make it work in Home Assistant. https://github.com/make-all/tuya-local.
+It works throug Tuya_Local to make it work in Home Assistant. https://github.com/make-all/tuya-local.
 There maybe more brands with the same model. To me, it was recognized as the EM3390TF weather station.
 
 <img width="592" height="511" alt="image" src="https://github.com/user-attachments/assets/eebe6362-5dea-4d24-bbca-f37c4f498a1a" />
