@@ -10,7 +10,8 @@ There maybe more brands with the same model. To me, it was recognized as the EM3
 
 In Dutch.
 
-<img width="485" height="530" alt="image" src="https://github.com/user-attachments/assets/761956d2-c57c-4840-a28f-aee624fc4429" />
+<img width="535" height="741" alt="image" src="https://github.com/user-attachments/assets/6d25909d-20f7-415b-b716-57aa018be528" />
+
 
 
 Protocol version: 3.5
